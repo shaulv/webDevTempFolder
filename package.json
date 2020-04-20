@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
-    "sass": "sass --watch C:/Users/shaul/OneDrive/Desktop/9-forkify/src/scss/main.scss:C:/Users/shaul/OneDrive/Desktop/9-forkify/dist/css/main.css",
+    "sass": "sass --watch ./src/scss/main.scss:./dist/css/main.css",
     "start": "webpack-dev-server --mode development --open"
   },
   "author": "Shaul Vainblat",
